@@ -7,8 +7,10 @@
 -練習使用git功能:commit, push
 
 ##ver 2
-新增項目衍生自Person的Student,Teacher類別
-新增列舉列別ClassName,Department
+-新增項目衍生自Person的Student,Teacher類別
+-新增列舉列別ClassName,Department
 
 ##ver 3
-興曾README.md說明文件
+=新增README.md說明文件
+-
+
