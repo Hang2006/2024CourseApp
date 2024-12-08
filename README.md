@@ -11,6 +11,7 @@
 -新增列舉列別ClassName,Department
 
 ##ver 3
-=新增README.md說明文件
+-新增README.md說明文件
 -
+
 
